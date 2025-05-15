@@ -40,11 +40,8 @@ SoundWellness - это  iOS-приложение для:
 - 📱 Swift
 - 🎨 SwiftUI
 - 🛠 Xcode
-- 🔐 Keychain для хранения токенов и чувствительных данных
-- 🌐 URLSession для сетевых запросов
-- 🧩 Combine
+- 🔐 Keychain для хранения чувствительных данных
 - 🔉 AVFoundation
-- 💬 UserNotifications
 
 ### Серверная часть (Backend)
 - 💻 C#
