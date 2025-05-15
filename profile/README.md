@@ -81,12 +81,6 @@ SoundWellness - это  iOS-приложение для:
 
    [https://localhost:7035/index.html](https://localhost:7035/index.html)
 
-### 🌐 Сервер (продакшн)
-
-API доступен по ссылке:
-
-👉 [https://sound-wellness-application.azurewebsites.net/index.html](https://sound-wellness-application.azurewebsites.net/index.html)
-
 ---
 
 ### 📱 Клиент (iOS-приложение)
